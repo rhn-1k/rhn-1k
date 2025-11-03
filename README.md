@@ -1,3 +1,4 @@
 a lot of viewers huh
 
-![Profile views](https://hit.yhype.me/github/profile/rhn-1k)
+![Viewers](https://profile-counter.glitch.me/rhn-1k/count.svg)
+
