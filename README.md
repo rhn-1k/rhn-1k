@@ -1,3 +1,1 @@
-
-
-![Viewers](https://komarev.com/ghpvc/?username=rhn-1k&color=blueviolet)
+pro ahh dev, thats my text
