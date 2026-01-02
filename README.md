@@ -9,4 +9,5 @@ i enjoy here developing kernels, tools. etc..
 
 ### Development Stats
 ![Rhn's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rhn-1k&show_icons=true&theme=dracula&title_color=A020F0&icon_color=A020F0&count_private=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rhn-1k&layout=compact&theme=dracula&title_color=A020F0)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rhn-1k&layout=compact&theme=dracula&title_color=A020F0&hide_border=false)
